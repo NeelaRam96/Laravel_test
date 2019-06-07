@@ -43,14 +43,16 @@
 	          <h4 class="modal-title">Confirmation</h4>
 	        </div>
 	        <div class="modal-body">
-	          <p>Are You Sure? Want to Delete?"</p>
+	          <p>Are You Sure? Want to Delete confirm it?"</p>
 	        </div>
 	        <div class="modal-footer">
 	        	<button type="button" class="btn btn-default" id= "confim_delete"  data-dismiss="modal">Yes</button>
 	          	<button type="button" class="btn btn-default" data-dismiss="modal">No</button>
 	        </div>
 	      </div>
-	      
+	        
+
+
 	    </div>
 	  </div>  
 	</div>
