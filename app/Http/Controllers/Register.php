@@ -27,7 +27,7 @@ class Register extends Controller
      */
     public function create()
     {
-       return view('form');
+       return view('forming');
     }
 
     /**
